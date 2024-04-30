@@ -46,7 +46,7 @@ We have concluded our presentation as:
 
 
 
-** Note: You can find the related files in my Repository.
+** **Note**: You can find the related files in my Repository.
 
 
 
