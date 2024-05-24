@@ -16,7 +16,7 @@ So, to guide **Eniac** with these 2 aspects, we have gathered some data from Mag
 
 ## Tools Used:
 1. MySQL for extracting the data.
-2. Tableau for visualizing that data.
+2. Tableau Public for visualizing that data.
 3. Google Slides to present & summarize the data with conclusion.
    
 ## Datasource:
@@ -26,14 +26,19 @@ We have used Magist's database to extract the exact data & visualize it to summa
 Group of 4 peoples contributed in this project work.
 
 ## Key Learnings:
-1. Explored the Magist's database in MySQL by reverse engineering & EER diagram.
-2. Explored the tables using sql queries & find out the answers for business questions which includes products,sellers & delivery time parameters.
-3. Published the above findings to Tableau to create visualizations in different types of bar charts.
-4. Analyzed the data through the graphs & discussed within group members with which data we will move forward to conclusion.
-5. At the end together with group members prepared a presentation.
+1. Understand the Magist's database in MySQL by reverse engineering & EER diagram.
+2. Using sql queries extract the information from tables & use it solve business questions.
+3. Visualize the key findings using Tableau.
+4. Research the Brazilian market and put the data into context.
+5. Analyzed the data & discussed within group members to reach a conclusion.
+6. Present the findings with recommendation for Eniac.
 
 ## Challenges Overcame:
-The main challenge was, which query results should be considered & another one was how to extract those results to Tableau for visualizations. But when 4 data analyst works together then nothing will be impossible so, we have divided our work among all of us & created different visualizations per parameters.Meanwhile helped each other if at any time problem occurs. Finally, we got our inputs & then prepared a presentation. 
+1. Hard to understand the undocumented database.
+2. Unclear data for the year 2016 so, assumed it might be corrupted & skip it for the analysis.
+3. Define high-tech products based on product categories.
+4. We had no data on specific products, only product IDs, this would have further helped the comparison between the companies and their match.
+5. Working with a product category data that is mentioned in a Portuguese language.
 
 ## Conclusion:
 We have concluded our presentation as:
