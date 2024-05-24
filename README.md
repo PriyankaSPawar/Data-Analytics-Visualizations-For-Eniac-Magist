@@ -1,4 +1,6 @@
 # Data Analysis & Visualization Project For Eniac:
+## DataScience Bootcamp Project : WBS Coding School
+This project is a part of my studies at DataScience Bootcamp which covers topics such as, SQL & Tableau.
 ## Objective: 
 To find that Magist is the best service provider for Eniac's order deliveries or not.
 
